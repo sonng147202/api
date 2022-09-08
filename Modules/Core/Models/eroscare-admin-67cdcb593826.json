@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eroscare-admin",
+  "private_key_id": "67cdcb5938268fd2c04c0e55b9cb6f84a0ed0a9b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCr1E4sRE3X3Gqz\nV2M5qIcOqbBIz4oQ+Tk+TCSZNww24WaBUBT/kxUXrMmJrcPUUvpXeV3wwzI/Tm28\nyL0sqaLzT6kO0qpXtYpEY7J07/kpGdjRW6Opnm5TQZgvmtkzeFEnkMKThDrizEmK\ne+yZ37p518xCxusV6yBEKQzXBbV5+cPflHeyD7XjUl83sJpAHLrvtu1UnPRlTTAV\nthtJmu6MJuKNqhOMaUIrQs27FqyAC7JU+64CFsuac6jDdJ4WBPsW8jiLBSMyeL9C\n4v7nfi51EUXpHv+9czQY+nbLzwTMmrmgZw9QF3/MNJMIKEDNAtdO0FtUbprUZsBb\nXkFfk5O7AgMBAAECggEAI26R+BrVmm9/KSAZ++e+gc2H5lu1cq6RmUEGQvnQ8Pgl\ntQCYc+MWdF1S6asFOKErsiH6twzpLZi0lDsoly8bxORmTgIu0gtDSbrtL6PUUx9b\nUEB/TRi4Uz6xbQ+XPj/PLENzfAvGQMIzX/UR4uD5iOpw2kw+abSkYKm+VhB9TXtW\n27TZMcBMBEywqs/KgPqe5V6KTZ8pBa12PZGQ4YGo+G+CMLGFdod6Q7tdX3EonAKe\nF9mPHQid2OpwUWyf/OsriojJ1c7bfLTrnW05e1RIeuXLWhXtA/v0DazzphcZ0X5S\nNrgUGRaRgO+BRx4BxTVy055/VPHx8RQHYkgy5kjcgQKBgQDXToAp3+Gv0unlaL+d\nvPyCPB6ZtwW8C59hAZG2BToS0aWsZk5DJJREEOPLk/ecn0hlMrnxlYeRLcSfhZy0\nG8mLF9Hs3eZgxPrNjBCSeb5OmAO/ajlrPutKDJOgQ20qSkjWbvz6JodT3EKWGDf4\ns5XmxBva3DjwRxbZolWmkRVPIQKBgQDMTi1UekrcHL7qMIdVYTIun7cYxkqGfpv3\nQcLnnV0i6mwYyaujZTMznSmuVRFYmSJH+O3WNrCW89ua9Me1qifhGALtLPl0WgKx\nYEXigsfyq7gfyYwSKnrhatWEhr0pfc8IVxFzSd4rQ8Tv0RMVKBo7f855W4FYz6b0\nvCXxyQETWwKBgEcRIjywKU5fz9RpPtZSCwbx0SfrwXjQXUsnuXDbSM/tY0IEgtCm\nwkm1SXto29JWwQ6mL7oOITFKahw9ffv1MBE5S5FjrSdD3YT7Nn0isi4+/v2vkkRU\nAFXw0MmVd/L9kg01lUr8bK7BhTkFxXPR0yjYklkrV5/31xL/AkZ4nRABAoGAYWjY\nxhF0xdPS1vgCXpv0ADTYaLCKcevF0zMAicwGzxH0LjFha4thyTci22Ll3VdN+ADg\n7SSwN5jXWN9ipOQXFYSMSKcL3QTZida8G059pN9o74b6CONGKVn1qbVQVYsNfg19\nXXmXuwsZx7nonkq7jyjVuhj95+lB0igu80QCBkcCgYA/0bi2Z3JMyBwH9LcRz2r5\nadUSurX6uyYrqXzcqdRDauas/3DnMlPKOTYvp6K22o99SIUn/HaVj7VH562IPDQg\nSghPssoM69qeGKTqZo9tnrYMZD8xH9rGypba9PmnGZZ1vYEleux0vmiyHaNC6yZL\nz+Cpi/9hGsiQCtDOwy9wQQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eroscare-admin@appspot.gserviceaccount.com",
+  "client_id": "106107543077523403623",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eroscare-admin%40appspot.gserviceaccount.com"
+}

@@ -1,0 +1,1 @@
+Link lấy lại mật khẩu: {{$user['url']}}
